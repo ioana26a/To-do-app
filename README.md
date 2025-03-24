@@ -19,7 +19,7 @@ Aceasta este o aplicație simplă de tip "To-Do List" care permite utilizatorilo
 
 📄 index.css Stilizare aplicație
 
-📄 script.js Funcționalitate JavaScript 
+📄 script.js Funcționalitate 
 
 ## 💡 Îmbunătățiri viitoare
 🚀 Salvarea sarcinilor în **Local Storage**  
