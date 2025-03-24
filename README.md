@@ -15,18 +15,12 @@ Aceasta este o aplicație simplă de tip "To-Do List" care permite utilizatorilo
 - Alerte pentru input gol  
 
 ## 📂 Structura proiectului
-📄 index.html # Structura paginii 
+📄 index.html Structura paginii 
+📄 index.css Stilizare aplicație
+📄 script.js Funcționalitate JavaScript 
 
-📄 index.css # Stilizare aplicație
-
-📄 script.js # Funcționalitate JavaScript 
-
-##💡 Îmbunătățiri viitoare
-
-Salvarea task-urilor în Local Storage
-
-Planificarea task-urilor cu data si oră
-
-Adăugarea unui buton "Șterge toate"
-
-Mod tematic (light/dark mode)
+## 💡 Îmbunătățiri viitoare
+🚀 Salvarea task-urilor în **Local Storage**  
+⏳ Planificarea task-urilor cu **dată și oră personalizată**  
+🗑️ Adăugarea unui buton **"Șterge toate"**  
+🌗 Mod tematic **light/dark mode** 
