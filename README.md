@@ -16,7 +16,9 @@ Aceasta este o aplicație simplă de tip "To-Do List" care permite utilizatorilo
 
 ## 📂 Structura proiectului
 📄 index.html Structura paginii 
+
 📄 index.css Stilizare aplicație
+
 📄 script.js Funcționalitate JavaScript 
 
 ## 💡 Îmbunătățiri viitoare
