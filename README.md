@@ -1,6 +1,6 @@
 # To-do-app📝
 
-Aceasta este o aplicație simplă de tip "To-Do List" care permite utilizatorilor să adauge, să marcheze și să șteargă sarcini.
+Aceasta este o aplicație de tip "To-Do List" care permite utilizatorilor să adauge, să marcheze și să șteargă sarcini.
 
 ## 🛠 Tehnologii utilizate
 - **HTML** pentru structura paginii  
