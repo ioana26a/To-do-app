@@ -11,7 +11,7 @@ Aceasta este o aplicație simplă de tip "To-Do List" care permite utilizatorilo
 ## 🎯 Funcționalități
 - Adăugarea unei sarcini în listă  
 - Ștergerea unei sarcini din listă  
-- Marcarea unei sarcini ca finalizată (text tăiat)  
+- Marcarea unei sarcini ca finalizată   
 - Alerte pentru input gol  
 
 ## 📂 Structura proiectului
@@ -20,7 +20,7 @@ Aceasta este o aplicație simplă de tip "To-Do List" care permite utilizatorilo
 📄 script.js Funcționalitate JavaScript 
 
 ## 💡 Îmbunătățiri viitoare
-🚀 Salvarea task-urilor în **Local Storage**  
-⏳ Planificarea task-urilor cu **dată și oră personalizată**  
+🚀 Salvarea sarcinilor în **Local Storage**  
+⏳ Planificarea sarcinilor cu **dată și oră personalizată**  
 🗑️ Adăugarea unui buton **"Șterge toate"**  
 🌗 Mod tematic **light/dark mode** 
